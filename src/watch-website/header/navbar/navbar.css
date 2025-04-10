@@ -14,6 +14,11 @@ nav{
     color: silver;
     font-weight: bolder;
 }
+.hided {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
 li{
     padding: 15px 20px;
 }
@@ -23,7 +28,7 @@ li{
 }
 .remove{
  height: 100vh;
- background-color: white;
+ background-color: silver;
  z-index: 999;
  width: 100vh;
  list-style: none;
