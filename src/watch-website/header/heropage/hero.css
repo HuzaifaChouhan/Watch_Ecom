@@ -36,6 +36,15 @@
 
 @media (max-width:400px){
     .hero{
-        height: 100vh;
+        height: 375px;
+    }
+    .watchs{
+        height: 200px;
+        width: 200px;
+    }
+    .butt-order{
+        width: 150px;
+        height: 30px;
+        font-size: 20px;
     }
 }
