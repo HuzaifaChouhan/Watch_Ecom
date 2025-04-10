@@ -6,11 +6,9 @@
 }
 
 
-@media (max-width:400px){
+@media (max-width:500px){
     .main{
-        background-position: -180px;
-        /* background-size: cover; */
+        background-position: -140px;
         height: 100vh;
-        /* width: 100vh; */
     }
 }
