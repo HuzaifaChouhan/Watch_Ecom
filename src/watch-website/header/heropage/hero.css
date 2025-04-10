@@ -34,10 +34,9 @@
     box-shadow: none;
 }
 
-@media (max-width:500px){
+@media (max-width:430px){
     .hero{
-        height: 375px;
-        justify-content: end;
+        height: 100vh;
     }
     /* .watchs{
         height: 200px;

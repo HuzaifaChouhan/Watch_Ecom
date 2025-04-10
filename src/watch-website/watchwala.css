@@ -6,9 +6,9 @@
 }
 
 
-@media (max-width:500px){
+@media (max-width:430px){
     .main{
-        background-position: -140px;
+        background-position: -480px;
         height: 100vh;
     }
 }
