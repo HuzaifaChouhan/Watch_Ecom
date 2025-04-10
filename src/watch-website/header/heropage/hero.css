@@ -1,0 +1,35 @@
+.hero{
+    /* border-top: 1px solid red;
+    border-bottom: 1px solid red; */
+    width: 100%;
+    height: 462px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.watchs{
+    height:300px;
+    width: 300px;
+}
+
+.butt-order{
+    background-color: transparent;
+    color: silver;
+    border: none;
+    border: 1px solid silver;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: black;
+    box-shadow: -6px 5px 0px;
+    transition: all 0.5s;
+    position: relative;
+}
+
+.butt-order:hover{
+    transform: translate(-6px,5px);
+    box-shadow: none;
+}
